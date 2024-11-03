@@ -17,11 +17,7 @@
 
 > Customized tmux, ready for development out of the box.
 
-## Screenshots
-
-![Clean](https://user-images.githubusercontent.com/7005773/194995518-dcf5fa69-458e-4ed3-a9a3-0c90e246f627.png)
-![FZF](https://user-images.githubusercontent.com/7005773/194995575-2bc424c4-4b75-4096-b324-51887f48af72.png)
-![Tiling Windows](https://user-images.githubusercontent.com/7005773/194995644-8a499ae5-742f-4458-831f-57c70eb15e10.png)
+## Gallery
 
 ## Try Without Installing
 
@@ -29,7 +25,7 @@ You can try this configuration out without committing to installing it on your s
 the following command.
 
 ```nix
-nix run github:jakehamilton/tmux
+nix run github:qrxnz/tmux-flake
 ```
 
 ## Install
@@ -39,7 +35,7 @@ nix run github:jakehamilton/tmux
 You can install this package imperatively with the following command.
 
 ```nix
-nix profile install github:jakehamilton/tmux
+nix profile install github:qrxnz/tmux-flake
 ```
 
 ### Nix Configuration
@@ -60,7 +56,7 @@ You can install this package by adding it as an input to your Nix flake.
 		};
 
 		tmux = {
-			url = "github:jakehamilton/tmux";
+			url = "github:qrxnz/tmux-flake";
 			inputs.nixpkgs.follows = "nixpkgs";
 		};
 	};
