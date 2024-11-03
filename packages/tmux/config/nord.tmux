@@ -22,7 +22,7 @@ set -g @prefix_highlight_copy_mode_attr "fg=brightcyan,bg=black,bold"
 #+ Status +
 #+--------+
 set -g status-bg default
-set-option -g status-style bg=default
+set-option -g status-style bg='#2e3440'
 
 #+--- Bars ---+
 set -g status-left "#[fg=brightblack,bg=white]  #S #[fg=white,bg=default,nobold,noitalics,nounderscore]"
