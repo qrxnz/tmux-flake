@@ -17,14 +17,10 @@
 
 > Customized tmux, ready for development out of the box.
 
-<<<<<<< HEAD
 ## Gallery
-=======
-## Screenshots
 
 ![normal bg](./.github/assets/img/screenshot1.jpg)
 ![transparent bg](./.github/assets/img/screenshot2.jpg)
->>>>>>> 413a54d (gallery)
 
 ## Try Without Installing
 
