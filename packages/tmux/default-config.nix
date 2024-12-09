@@ -64,6 +64,7 @@ let
       resurrect
       continuum
       nord
+      yank
       tilish
       tmux-fzf
       vim-tmux-navigator
