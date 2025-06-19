@@ -17,6 +17,8 @@
 
 > Customized tmux, ready for development out of the box.
 
+Orginal repository --> https://github.com/jakehamilton/tmux
+
 ## Gallery
 
 ![normal bg](./.github/assets/img/screenshot1.jpg)
