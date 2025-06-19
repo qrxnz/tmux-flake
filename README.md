@@ -17,6 +17,13 @@
 
 > Customized tmux, ready for development out of the box.
 
+<pre>
+      |_|   ,
+     ('.') ///
+     <(_)`-/'
+ <-._/J L /  -bf-
+</pre>
+
 Orginal repository --> https://github.com/jakehamilton/tmux
 
 ## Gallery
